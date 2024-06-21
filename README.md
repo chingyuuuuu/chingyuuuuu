@@ -1,16 +1,30 @@
-## Hi there 👋
+# chingyu-resume
 
-<!--
-**chingyuuuuu/chingyuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I am Ching Yu from Taiwan.
 
-Here are some ideas to get you started:
+## About Me 
+I am a student majoring in computer science at Fu Jen Catholic University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Languages
+- English
+- Japanese
+- Chinese
+
+### Frontend
+- **Languages**: HTML, CSS, JavaScript,OPENGL,WEBGL
+- **Frameworks/Libraries**: React, Angular, Vue.js
+- **Tools**: Webpack
+
+### Backend
+- **Languages**: C++, Python, Java
+- **Frameworks**: Django, Flask
+- **Databases**: MySQL
+- **Tools**: Docker
+- **Researching**: Deep Learning
+
+## Projects - still working hard...
+
+## Contact
+- **Email**: [kiki20030108@gmail.com](mailto:kiki20030108@gmail.com)
