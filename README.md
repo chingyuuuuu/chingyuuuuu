@@ -12,9 +12,7 @@ I am a student majoring in computer science at Fu Jen Catholic University.
 - Chinese
 
 ### Frontend
-- **Languages**: HTML, CSS, JavaScript,OPENGL,WEBGL
-- **Frameworks/Libraries**: React, Angular, Vue.js
-- **Tools**: Webpack
+- **Languages**: HTML, CSS, JavaScript,OPENGL,WEBGL,flutter(Dart)
 
 ### Backend
 - **Languages**: C++, Python, Java
