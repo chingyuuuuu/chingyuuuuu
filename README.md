@@ -9,7 +9,8 @@ I am a student majoring in computer science at Fu Jen Catholic University.
 ### Languages
 - English
 - Japanese
-- Chinese
+- Mandarin
+- Taiwanese
 
 ### Frontend
 - **Languages**: HTML, CSS, JavaScript,OPENGL,WEBGL,flutter(Dart)
