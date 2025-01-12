@@ -18,9 +18,9 @@ I am a  junior software engineer from Taiwan,I interted in developing apps or we
 - **Frameworks**: Django, Flask
 - **Databases**: MySQL
 
-## Projects - 
--**dining service project**
--**future web**
+## Projects 
+- **dining service project**
+- **future web**
 
 ## Contact😉
 - **Email**: [kiki20030108@gmail.com](mailto:kiki20030108@gmail.com)
