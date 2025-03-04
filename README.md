@@ -1,5 +1,5 @@
 
-# Hello🙌, I am Ching Yu from Taiwan.
+# Hello🙌, I am Ching from Taiwan.
 
 ## About Me 
 I am a  junior software engineer from Taiwan,I interted in developing apps or web and also I have many ideas.
@@ -23,6 +23,6 @@ I am a  junior software engineer from Taiwan,I interted in developing apps or we
 - **future web**
 
 ## Contact😉
-- **Email**: [kiki20030108@gmail.com](mailto:kiki20030108@gmail.com)
+- **Email**: [plankcanon78@gmail.com](mailto:plankcanon78@gmail.com)
 - **Blog**:
 
