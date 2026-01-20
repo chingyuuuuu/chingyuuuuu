@@ -24,5 +24,4 @@ I am a  junior software engineer from Taiwan,I interted in developing apps or we
 
 ## Contact😉
 - **Email**: [plankcanon78@gmail.com](mailto:plankcanon78@gmail.com)
-- **Blog**:[Cheese blog](https://cheese-blog.com/)
 
